@@ -1,10 +1,10 @@
 ### Hi, I'm Abdullah
-- 👯 I’m looking to collaborate on Research of Artificial Intellegence for Chemistry
-- What I am interseted in :
+## 👯 I’m looking to collaborate on Research of Artificial Intellegence for Chemistry
+##What I am interseted in :
 
-molecular dynamics inputs for LAMMPS
-python scripts for preparing and analysing molecular dynamics simulations
-cheminformatics and ML for chemistry . 
+-molecular dynamics inputs for LAMMPS.
+-python scripts for preparing and analysing molecular dynamics simulations.
+-cheminformatics and ML for chemistry. 
 
 <!--
 **Abdullahsaber86/Abdullahsaber86** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
