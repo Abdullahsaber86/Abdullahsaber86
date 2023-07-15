@@ -1,4 +1,5 @@
-### Hi there 👋
+### Hi there 👋 ,  I'm Abdullah
+- 👯 I’m looking to collaborate on Research of Artificial Intellegence for Chemistry
 
 <!--
 **Abdullahsaber86/Abdullahsaber86** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
