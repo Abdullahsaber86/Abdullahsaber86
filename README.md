@@ -1,4 +1,5 @@
 ### Hi, I'm Abdullah
+<!--
 ## 👯 I’m looking to collaborate in the Research of Artificial intelligence for Chemistry
 ## What I’m interested in :
 
@@ -6,6 +7,7 @@
 - python scripts for preparing and analysing molecular dynamics simulations.
 - cheminformatics and ML for chemistry.
 - Materials Discovery.
+-->
 
 <!--
 **Abdullahsaber86/Abdullahsaber86** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
